@@ -1,1 +1,1 @@
-# qctrl-qchack-acqc
+# Q-CTRL QCHack Challenge AC/QC
